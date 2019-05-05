@@ -54,7 +54,7 @@ Bu az-maz çətindir, amma Compar Academy Sizə Güvənir! :)</li>
   <li>https://docs.microsoft.com/en-us/sql/ssms/release-notes-ssms?view=sql-server-2017#previous-ssms-releases
     <ul>
       <li> Bu Linkdən 17.9.1 versiyasini yükləyin</li>
-      <li> Çətinlik çəkənlər keçən dəfə atdığım Sql yüklenmə videosuna baxa bilərlər</li>
+      <li> Çətinlik çəkənlər keçən dəfə atdığım Sql yüklənmə videosuna baxa bilərlər</li>
       
   </li>
   <hr>
