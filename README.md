@@ -57,5 +57,5 @@ Bu az-maz çətindir, amma Compar Academy Sizə Güvənir! :)</li>
       <li> Çətinlik çəkənlər keçən dəfə atdığım Sql yüklenmə videosuna baxa bilərlər</li>
       
   </li>
-  
+  <hr>
 <i>Uğurlar</i>
